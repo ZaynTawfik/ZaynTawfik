@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZaynTawfik
-- 👀 I’m interested in Smart Contracts and Data Science 
-- 🌱 I’m currently learning Solidity, R and Python.
-- 💞️ I’m looking to collaborate on shipping dApps
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning R and Python.
+- 💞️ I’m looking to collaborate on modelling recommender Apps
 - 📫 How to reach me instgram/@zayntawfik, twitter/@Th7Hus, linkedin/thoufeek-hussain
 
 <!---

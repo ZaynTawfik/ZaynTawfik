@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZaynTawfik
-- 👀 I’m interested in Data Science and Software Testing.
-- 🌱 I’m currently learning R and Python.
+- 👀 Product Manager
+- 🌱 I’m currently building AI Applications.
 - 💞️ I’m looking to collaborate on chaining LLM models.
 - 📫 How to reach me instgram/@zayntawfik, twitter/@Th7Hus, linkedin/thoufeek-hussain
 

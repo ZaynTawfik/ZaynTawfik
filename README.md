@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ZaynTawfik
 - 👀 AI Product Manager & AI Researcher.
+- 🎓 MSc in Data Science and Artificial Intelligence.
 - 🌱 I’m currently building AI Applications.
 - 💞️ I’m looking to collaborate on chaining LLM models and Multi Agent AI Systems (MAS).
 - 📫 How to reach me instgram/@zayntawfik, twitter/@Th7Hus, linkedin/thoufeek-hussain

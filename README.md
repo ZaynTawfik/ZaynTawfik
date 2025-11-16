@@ -1,4 +1,6 @@
-# Thoufeek Hussain — AI & Payments Product Manager | MSc in Data Science & AI 👋
+# Hi, I'm Thoufeek Hussain 👋
+
+## AI & Payments Product Manager | MSc in Data Science & AI 👋
 
 Product leader, ex-founder, and MSc in Data Science & AI who ships AI-first products that move business metrics. I design and launch agentic AI apps, payments flows, and data-driven features — from prototype to production — with a bias for measurable impact.
 

@@ -19,7 +19,7 @@ Product leader, ex-founder, and MSc in Data Science & AI who ships AI-first prod
 
 ## Core skills
 
-Product strategy · Payments & integrations · Agentic AI · Data & A/B testing · Roadmaps · Agile leadership · Figma & UX collaboration · SQL / Python / Streamlit
+Product strategy · Payments & integrations · Agentic AI · Data & A/B testing · Roadmaps · Agile leadership · Dev & UX collaboration · SQL / Python / Streamlit
 
 ## Want to collaborate?
 
